@@ -1,5 +1,4 @@
-# Intro-to-AI-
-Personalized Recommendations for Amazon Prime:
+# Personalized Recommendations for Amazon Prime:
 
 User Documentation
 
